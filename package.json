@@ -108,8 +108,7 @@
     "lodash": "^4.17.11"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": "^16.8.0"
   },
   "nyc": {
     "instrument": false,
